@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6F07830822D33B81002BC7EA /* PetPal.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6F07830622D33B81002BC7EA /* PetPal.xcdatamodeld */; };
+		6F07830822D33B81002BC7EA /* HospitalModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6F07830622D33B81002BC7EA /* HospitalModel.xcdatamodeld */; };
 		6F07831122D34F45002BC7EA /* Friend+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F07830F22D34F45002BC7EA /* Friend+CoreDataClass.swift */; };
 		6F07831822D35B77002BC7EA /* Friend+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F07831722D35B77002BC7EA /* Friend+CoreDataProperties.swift */; };
 		DD6B333C1F56DAD800F4C248 /* PetsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD6B333B1F56DAD800F4C248 /* PetsViewController.swift */; };
@@ -63,7 +63,7 @@
 				DD952D681F56D8AA00AF81B8 /* Main.storyboard */,
 				DD952D6B1F56D8AA00AF81B8 /* Assets.xcassets */,
 				DD952D6D1F56D8AA00AF81B8 /* LaunchScreen.storyboard */,
-				6F07830622D33B81002BC7EA /* PetPal.xcdatamodeld */,
+				6F07830622D33B81002BC7EA /* HospitalModel.xcdatamodeld */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -210,7 +210,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F07830822D33B81002BC7EA /* PetPal.xcdatamodeld in Sources */,
+				6F07830822D33B81002BC7EA /* HospitalModel.xcdatamodeld in Sources */,
 				6F07831122D34F45002BC7EA /* Friend+CoreDataClass.swift in Sources */,
 				DD952D671F56D8AA00AF81B8 /* MainViewController.swift in Sources */,
 				DD6B33441F56EC2400F4C248 /* FriendCell.swift in Sources */,
@@ -414,13 +414,13 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		6F07830622D33B81002BC7EA /* PetPal.xcdatamodeld */ = {
+		6F07830622D33B81002BC7EA /* HospitalModel.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
 				6F07830722D33B81002BC7EA /* PetPal.xcdatamodel */,
 			);
 			currentVersion = 6F07830722D33B81002BC7EA /* PetPal.xcdatamodel */;
-			path = PetPal.xcdatamodeld;
+			path = HospitalModel.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
